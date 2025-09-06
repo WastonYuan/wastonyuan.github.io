@@ -4,52 +4,30 @@ layout: default
 
 
 
-Ph.D. candidate in Domputer and Engineering Department of the Chinese University of Hong Kong, supervised by Prof., expected to graduate in 2023. 
-My research mainly focuses on transaction processing in distributed databases. 
-In particular, I'm interested in designing efficient and practical protocols including concurrency control, atomic commit, and replication protocols for typical DBs or blockchains. 
+I received my Ph.D. from the School of Computer Science and Technology of Harbin Institute of Technology. My research area is concurrent transaction processing in databases.
 
-## :book: Publications
+## Publications
 
-- #### Knock Out 2PC with Practicality Intact: a High-performance and General Distributed Transaction Protocol ![](https://img.shields.io/badge/ICDE_2023-blue)
+- **Xinyuan Wang**，Xingchen Li，Yun Peng，Hejiao Huang. Comprehensive Evaluation and Opportunity Discovery for Deterministic Concurrency Control［J］. ACM Transactions on Architecture and Code Optimization，2025. [[Paper](https://dl.acm.org/doi/10.1145/3715126)]
 
-  ***Ziliang Lai**, Hua Fan, Wenchao Zhou, Zhanfeng Ma, Xiang Peng, Feifei Li, Eric Lo*
+- **Xinyuan Wang**，Yun Peng，Hejiao Huang. Gria: an efficient deterministic concurrency control protocol［J］. Frontiers of Computer Science ，2024. [[Paper](https://link.springer.com/article/10.1007/s11704-023-2605-z)]
 
-- #### When Private Blockchain Meets Deterministic Database ![](https://img.shields.io/badge/SIGMOD_2023-blue)
+- **Xinyuan Wang**，Yun Peng，Hejiao Huang，Xingchen Li. Dodo: A scalable optimistic deterministic concurrency control protocol［J］. Future Generation Computer Systems，2024. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167739X24002139)]
+- **Xinyuan Wang**，Hejiao Huang. SGPM: A coroutine framework for transaction processing［J］. Parallel Computing，2022. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167819122000709?via%3Dihub)]
+- Xingchen Li，**Xinyuan Wang**，Hejiao Huang. Practical Deterministic Transaction Processing with Low-cost Re-execution［C］. International Conference on Parallel and Distributed Systems，2024. [[Paper](https://ieeexplore.ieee.org/document/10763817/)]
+- **Xinyuan Wang**，Yun Peng，Xingchen Li，Hejiao Huang. Gas-Based Deterministic Concurrent Transaction Processing for Blockchain [J]. SSRN ([Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4965187)) 
 
-  ***Ziliang Lai**, Chris Liu, Eric Lo*
-  [[paper](https://arxiv.org/abs/2211.15163)]
+## Awards & Scholarships
 
-- #### Top-K Deep Video Analytics: A Probabilistic Approach ![](https://img.shields.io/badge/SIGMOD_2021-blue) 
+* Two National Encouragement Scholarships (2012, 2013)
+* First Prize (2013) and Third Prize (2012) in the ACM-ICPC Liaoning Provincial Competition
+* Second Prize in the "Jingdiao" Scholarship (2016)
+* Third Place in the X9 University Badminton Mixed Team Tournament (2024)
+* Second Place in the Men's Singles Badminton at the Shenzhen Nanshan District Games (2024)
 
-  ***Ziliang Lai**, Chenxia Han, Chris Liu, Pengfei Zhang, Eric Lo, Ben Kao*
-  [[paper](https://dl.acm.org/doi/abs/10.1145/3448016.3452786)]
-  [[code](https://github.com/everest-project/everest)]
+## Work experience
 
-- #### Everest: A Top-K Deep Video Analytics System ![](https://img.shields.io/badge/SIGMOD_2022-blue) ![](https://img.shields.io/badge/Best_Demo_Runner_up-red) 
-
-  ***Ziliang Lai**, Chenxia Han, Chris Liu, Pengfei Zhang, Eric Lo, Ben Kao*
-  [[paper](https://dl.acm.org/doi/10.1145/3514221.3520151)]
-  [[video](https://www.youtube.com/watch?v=iR4wxVi0yVU)]
-
-- #### Saguaro: Efficient Processing of Transactions in Wide Area Networks using a Hierarchical Permissioned Blockchain ![](https://img.shields.io/badge/ICDE_2023-blue) 
-
-  *Mohammad Javad Amiri, **Ziliang Lai**, Liana Patel, Boon Thau Loo, Eric Lo, Wenchao Zhou*
-  [[paper](https://arxiv.org/abs/2101.08819)]
-
-## :medal_sports: Awards & Scholarships
-
-* SIGMOD 2022 Best Demo Runner-up
-
-* ACM Student Research Competition Grand Final 2022 First Place
-
-* SIGMOD Student Research Competition 2021 First Place
-
-* Hong Kong PhD Fellowship Scheme
-
-* Kunkle and Pommerenke Scholarship 2018/2019
-
-* China National Scholarship 2017
-
-* China National Scholarship 2016
-
-* International Aerial Robotics Competition 2017 First Place in System Control
+- Shenzhen Sangfor, Virtualization Storage Department, Proprietary File System Development (GlusterFS), June 2020 - March 2021
+- Shenzhen Huawei, Cloud Computing/Database Service Product Department, Database Core Development (MongoDB, Redis), April 2018 - May 2020
+- Beijing Didi, Route Planning Department, Machine Learning Intern, May 2017 - January 2018
+- Xi'an SAP, HANA Database Testing Department, Test Development Intern, March 2016 - March 2017
