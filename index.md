@@ -4,7 +4,7 @@ layout: default
 
 
 
-I received my Ph.D. from the School of Computer Science and Technology of Harbin Institute of Technology in 2025. My research area is concurrent transaction processing in databases.
+I received my Ph.D. from the School of Computer Science and Technology, Harbin Institute of Technology in 2025. Prior to that, I received my bachelor's degree from Dalian Neusoft University of Information in 2014 and my master's degree from Northwestern Polytechnical University in 2018. My research area is concurrent transaction processing in databases.
 
 ## Publications
 
