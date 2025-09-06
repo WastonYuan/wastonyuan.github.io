@@ -23,7 +23,7 @@ I received my Ph.D. from the School of Computer Science and Technology of Harbin
 * First Prize (2013) and Third Prize (2012) in the ACM-ICPC Liaoning Provincial Competition
 * Second Prize in the "Jingdiao" Scholarship (2016)
 * Third Place in the X9 University Badminton Mixed Team Tournament (2024)
-* Second Place in the Men's Singles Badminton at the Shenzhen Nanshan District Games (2024)
+* Second Place in the Men's Singles Badminton at the Shenzhen Nanshan Games (2024)
 
 ## Work experience
 
