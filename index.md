@@ -4,7 +4,7 @@ layout: default
 
 
 
-I received my Ph.D. from the School of Computer Science and Technology of Harbin Institute of Technology. My research area is concurrent transaction processing in databases.
+I received my Ph.D. from the School of Computer Science and Technology of Harbin Institute of Technology in 2025. My research area is concurrent transaction processing in databases.
 
 ## Publications
 
