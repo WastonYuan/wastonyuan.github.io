@@ -4,9 +4,9 @@ layout: default
 
 
 
-I received my Ph.D. from the School of Computer Science and Technology, Harbin Institute of Technology in 2025. Prior to that, I received my bachelor's degree from Dalian Neusoft University of Information in 2014 and my master's degree from Northwestern Polytechnical University in 2018. My research area is concurrent transaction processing in databases.
+我于 2025 年在哈尔滨工业大学计算学部获得博士学位。我的研究方向是数据库中的并发事务处理。
 
-## Publications
+## 论文发表
 
 - **Xinyuan Wang**，Xingchen Li，Yun Peng，Hejiao Huang. Comprehensive Evaluation and Opportunity Discovery for Deterministic Concurrency Control［J］. ACM Transactions on Architecture and Code Optimization，2025. [[Paper](https://dl.acm.org/doi/10.1145/3715126)]
 
@@ -17,17 +17,17 @@ I received my Ph.D. from the School of Computer Science and Technology, Harbin I
 - Xingchen Li，**Xinyuan Wang**，Hejiao Huang. Practical Deterministic Transaction Processing with Low-cost Re-execution［C］. International Conference on Parallel and Distributed Systems，2024. [[Paper](https://ieeexplore.ieee.org/document/10763817/)]
 - **Xinyuan Wang**，Yun Peng，Xingchen Li，Hejiao Huang. Gas-Based Deterministic Concurrent Transaction Processing for Blockchain [J]. SSRN ([Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4965187)) 
 
-## Awards & Scholarships
+## 奖项与奖学金
 
-* Two National Encouragement Scholarships (2012, 2013)
-* First Prize (2013) and Third Prize (2012) in the ACM-ICPC Liaoning Provincial Competition
-* Second Prize in the "Jingdiao" Scholarship (2016)
-* Third Place in the X9 University Badminton Mixed Team Tournament (2024)
-* Second Place in the Men's Singles Badminton at the Shenzhen Nanshan Games (2024)
+* 国家励志奖学金两次（2012、2013）
+* ACM-ICPC 辽宁省赛一等奖（2013）与三等奖（2012）
+* "精雕"奖学金二等奖（2016）
+* X9 高校羽毛球混合团体赛季军（2024）
+* 深圳市南山区运动会羽毛球男子单打亚军（2024）
 
-## Work experience
+## 工作经历
 
-- Shenzhen Sangfor, Virtualization Storage Department, Proprietary File System Development (GlusterFS), June 2020 - March 2021
-- Shenzhen Huawei, Cloud Computing/Database Service Product Department, Database Core Development (MongoDB, Redis), April 2018 - May 2020
-- Beijing Didi, Route Planning Department, Machine Learning Intern, May 2017 - January 2018
-- Xi'an SAP, HANA Database Testing Department, Test Development Intern, March 2016 - March 2017
+- 深圳深信服，虚拟化存储部门，自研文件系统开发（GlusterFS），2020 年 6 月 - 2021 年 3 月
+- 深圳华为，云计算/数据库服务产品部，数据库核心开发（MongoDB、Redis），2018 年 4 月 - 2020 年 5 月
+- 北京滴滴，路径规划部门，机器学习实习生，2017 年 5 月 - 2018 年 1 月
+- 西安 SAP，HANA 数据库测试部门，测试开发实习生，2016 年 3 月 - 2017 年 3 月
